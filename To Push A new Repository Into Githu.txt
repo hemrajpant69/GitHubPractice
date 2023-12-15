@@ -1,0 +1,13 @@
+To Push A new Repository Into Github
+1) Create a New repo With a desired name at github
+2) Locally folder ma "git init" garnu paryo
+3) git add . or git add filename
+4) git commit -m "gareko kam lekhne"
+5) git push
+
+
+Github ma pahile nai vako code push garne
+
+1) git add .
+2) git commit -m " msg"
+3) git push
